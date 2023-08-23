@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Grover</h1>
-<h3 align="center">Geek by nature, tech enthusiast by choice 🤓🚀💡</h3>
+<h3 align="center">One who prefers smartwork over hardwork</h3>
 
 <p align="left"> <a href="https://twitter.com/udaygr0ver" target="blank"><img src="https://img.shields.io/twitter/follow/udaygr0ver?logo=twitter&style=for-the-badge" alt="udaygr0ver" /></a> </p>
 
