@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **nothing right now**
 
-- 👨‍💻 All of my projects are available at [udaygrover.github.io](udaygrover.github.io)
+- 👨‍💻 All of my projects are available at [github.com/udaygrover](github.com/udaygrover)
 
 - 📫 How to reach me **udaygr0ver@outlook.com**
 
