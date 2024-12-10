@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/udaygrover](github.com/udaygrover)
 
-- 📫 How to reach me **udaygr0ver@outlook.com**
-
 - 📄 Know about my experiences [www.linkedin.com/in/udaygr0ver](www.linkedin.com/in/udaygr0ver)
 
 <h3 align="left">Connect with me:</h3>
